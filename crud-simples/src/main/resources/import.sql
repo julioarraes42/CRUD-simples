@@ -1,0 +1,1 @@
+insert into usuario (id, email, senha, nome, cpf, idade, numero) values(1, 'xxx@gmail', '123', 'cesar', '321', 18, '333');
